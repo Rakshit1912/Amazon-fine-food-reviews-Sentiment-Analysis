@@ -1,0 +1,41 @@
+Software Used
+
+Anaconda jupyter environment was used for this project. Jupyter is a project which produces browser-based interactive 
+environments for programming, mathematics, and data science. It supports a number of languages via plugins ("kernels"), 
+such as Python, Ruby, Haskell, R, Scala and Julia.
+
+Libraries Used
+
+Pandas
+In computer programming, pandas is a software library written for the Python programming language for data manipulation 
+and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. 
+It is free software released under the three-clause BSD license.
+
+NumPy 
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, 
+along with a large collection of high-level mathematical functions to operate on these arrays.
+
+Scikit-learn
+Scikit-learn (formerly scikits.learn) is a free software machine learning library for the Python programming language.
+It features various classification, regression and clustering algorithms including support vector machines,
+random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and
+scientific libraries NumPy and SciPy.
+
+NLTK(Natural Language Toolkit)
+NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use 
+interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries 
+for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength
+NLP libraries, and an active discussion forum.
+
+Matplotlib
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats 
+and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, 
+the Jupyter notebook, web application servers, and four graphical user interface toolkits.
+
+Seaborn
+Seaborn is a graphic library built on top of Matplotlib. It allows to make your charts prettier, and facilitates some
+of the common data visualisation needs (like mapping a color to a variable or using faceting). 
+
+Dataset Downloaded from:-
+
+https://www.kaggle.com/snap/amazon-fine-food-reviews/data
